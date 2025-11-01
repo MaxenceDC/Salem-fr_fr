@@ -26,7 +26,7 @@
   "item.salem.common_raid_summoner": "Invocateur d'Invasion Commun",
   "item.salem.rare_raid_summoner": "Invocateur d'Invasion Rare",
   "item.salem.epic_raid_summoner": "Invocateur d'Invasion Épic",
-  "item.salem.legendary_raid_summoner": Invocateur d'Invasion Légendaire",
+  "item.salem.legendary_raid_summoner": "Invocateur d'Invasion Légendaire",
   "tooltip.salem.can_reward": "Peut donner :",
   "tooltip.salem.only_night": "S'utilise seulement de nuit",
   "config.salem.enable_random_raids": "Activer les raids communs",
